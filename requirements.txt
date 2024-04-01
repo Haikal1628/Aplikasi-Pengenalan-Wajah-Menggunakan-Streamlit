@@ -1,0 +1,6 @@
+opencv-python
+cmake
+pyyaml
+streamlit==1.22.0
+
+

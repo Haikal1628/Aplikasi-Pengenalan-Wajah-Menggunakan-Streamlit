@@ -1,0 +1,8 @@
+
+PATH:
+  DATASET_DIR: 'dataset/'
+  PKL_PATH: 'dataset/database.pkl'
+
+INFO:
+  PICTURE_PROMPT: 'Aplikasi Pengenalan wajah Jurusan Teknik Informatika Fakultas Ilmu Komputer Universitas Sriwijaya tahun 2024.'
+  WEBCAM_PROMPT: 'Aplikasi ini mengenali wajah dalam streaming video langsung. Untuk menggunakannya, cukup tekan start dan izinkan akses ke webcam Anda.'
